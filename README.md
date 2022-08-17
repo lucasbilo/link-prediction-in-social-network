@@ -64,7 +64,7 @@ AUC ROC:
 
 ---
 
-Matriz de confusión:
+Matriz de confusión (en test):
 
 <center>
 
